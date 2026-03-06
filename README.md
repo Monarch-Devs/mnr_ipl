@@ -3,3 +3,5 @@ Optimized resource for IPL management, providing efficient loading and unloading
 
 ## Links
 - [Discord](https://discord.gg/WKtk65yBC6)
+- [Presets](https://github.com/Monarch-Devs/monarch_presets)
+- [Docs](https://monarch-devs.com/docs/mnr_ipl)

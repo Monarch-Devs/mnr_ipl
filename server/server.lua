@@ -1,31 +1,16 @@
-lib.addCommand("entityset", {
-    help = "Loads an entityset for a map",
-    params = {
-        {
-            name = "mapName",
-            type = "string",
-            help = "Name of the map",
-        },
-        {
-            name = "setName",
-            type = "string",
-            help = "Name of the EntitySet to load",
-        },
-        {
-            name = "action",
-            type = "string",
-            help = "Action to perform (load/unload)",
-        },
-    },
-    restricted = "group.admin"
-}, function(source, args, raw)
-    local mapName = args.mapName
-    local entitySet = args.setName
-    local action = args.action
+---@diagnostic disable
+---@description UPDATE-RENAME-DEPENDENCIES CHECKER (DON'T DELETE)
+--- If you are here means you had an error called from here, install the dependencies or
+--- rename the script with the correct name to avoid the error and use the script
 
-    if not mapName or not entitySet or not action then
-        return
-    end
+assert(GetResourceState('ox_lib') == 'started', 'ox_lib not found or not started before this script, install or start before ox_lib')
 
-    TriggerClientEvent("mnr_ipl:client:EditEntitySet", -1, mapName, entitySet, action)
+local expectedName = GetResourceMetadata(GetCurrentResourceName(), 'name')
+
+lib.versionCheck(('Monarch-Development/%s'):format(expectedName))
+
+AddEventHandler('onResourceStart', function(resourceName)
+    if GetCurrentResourceName() ~= resourceName then return end
+
+    assert(GetCurrentResourceName() == expectedName, ('The resource name is incorrect. Please set it to %s.^0'):format(expectedName))
 end)
