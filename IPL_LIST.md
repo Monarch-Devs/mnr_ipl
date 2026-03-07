@@ -2,77 +2,77 @@
 
 ## IPLs (`ipls`)
 
-| IPL Name                              | Description                           | Enabled   | Coords                           |
-|---------------------------------------|---------------------------------------|-----------|----------------------------------|
-| `ferris_finale_anim`                  | Animated Ferris Wheel                 | Yes       | -1676.94, -1126.66, 13.09        |
-| `sp1_10_real_interior`                | Arena - Fame or Shame                 | Yes       | -251.10, -2029.25, 29.95         |
-| `sp1_10_real_interior_lod`            | Arena - Fame or Shame (Lod)           | Yes       | -251.10, -2029.25, 29.95         |
-| `hei_sm_16_interior_v_bahama_milo_`   | Bahama Mamas Interior                 | No        | -1387.20, -588.89, 30.32         |
-| `FruitBB`                             | Billboard                             | No        | -                                |
-| `sc1_01_newbill`                      | Billboard                             | No        | -                                |
-| `hw1_02_newbill`                      | Billboard                             | No        | -                                |
-| `hw1_emissive_newbill`                | Billboard (Emissive)                  | No        | -                                |
-| `sc1_14_newbill`                      | Billboard                             | No        | -                                |
-| `dt1_17_newbill`                      | Billboard                             | No        | -                                |
-| `canyonriver01`                       | Canyon River                          | Yes       | -426.97, 4386.53, 48.08          |
-| `canyonriver01_lod`                   | Canyon River (Lod)                    | Yes       | -426.97, 4386.53, 48.08          |
-| `cargoship`                           | Cargo Ship (Normal)                   | No        | -217.24, -2386.04, 6.00          |
-| `ship_occ_grp1`                       | Cargo Ship Occlusions (Normal)        | No        | -217.24, -2386.04, 6.00          |
-| `sunkcargoship`                       | Cargo Ship (Sinking)                  | No        | -217.24, -2386.04, 6.00          |
-| `ship_occ_grp2`                       | Cargo Ship Occlusions (Sinking)       | No        | -217.24, -2386.04, 6.00          |
-| `Carwash_with_spinners`               | Carwash Rotating Brushes              | No        | 45.62, -1390.75, 29.42           |
-| `lr_cs6_08_grave_closed`              | Church Grave                          | Yes       | -285.3045, 2831.2825, 55.6201    |
-| `CS1_02_cf_onmission1`                | Cluckin' Bell Paleto                  | Yes       | -70.65, 6269.88, 31.33           |
-| `CS1_02_cf_onmission2`                | Cluckin' Bell Paleto                  | Yes       | -70.65, 6269.88, 31.33           |
-| `CS1_02_cf_onmission3`                | Cluckin' Bell Paleto                  | Yes       | -70.65, 6269.88, 31.33           |
-| `CS1_02_cf_onmission4`                | Cluckin' Bell Paleto                  | Yes       | -70.65, 6269.88, 31.33           |
-| `dt1_21_prop_lift_on`                 | Construction Site Lift                | No        | -182.77, -1023.16, 29.35         |
-| `dockcrane1`                          | Dock Crane                            | No        | 884.16, -2940.72, 5.90           |
-| `pcranecont`                          | Dock Crane Container                  | No        | 884.16, -2940.72, 5.90           |
-| `atriumglmission`                     | FIB - Roof Windows                    | Yes       | 124.5452, -745.1277, 262.9725    |
-| `dt1_05_hc_end`                       | FIB - Incident                        | No        | 185.0049, -680.3353, 43.1409     |
-| `dt1_05_hc_req`                       | FIB - Burnt Helicopter                | No        | 185.0049, -680.3353, 43.1409     |
-| `dt1_05_hc_remove`                    | FIB - Fountain Part                   | Yes       | 185.0049, -680.3353, 43.1409     |
-| `FIBlobby`                            | FIB Entrance                          | Yes       | 101.3845, -744.0375, 45.7547     |
-| `CS3_07_MPGates`                      | Fort Zancudo Gates                    | No        | -2296.96, 3380.78, 31.06         |
-| `farm`                                | Grapeseed Farm                        | Yes       | 2430.4929, 4980.7598, 45.8755    |
-| `farmint`                             | Grapeseed Farm Interior               | Yes       | 2430.4929, 4980.7598, 45.8755    |
-| `farm_lod`                            | Grapeseed Farm Lod                    | Yes       | 2430.4929, 4980.7598, 45.8755    |
-| `farm_props`                          | Grapeseed Farm Props                  | Yes       | 2430.4929, 4980.7598, 45.8755    |
-| `des_farmhouse`                       | Grapeseed Farmhouse                   | Yes       | 2430.4929, 4980.7598, 45.8755    |
-| `ch3_rd2_bishopschickengraffiti`      | Graffiti - Bishop's Chicken           | No        | -                                |
-| `cs5_04_mazebillboardgraffiti`        | Graffiti - Maze Billboard             | No        | -                                |
-| `cs5_roads_ronoilgraffiti`            | Graffiti - Ron Oil                    | No        | -                                |
-| `Coroner_Int_on`                      | Hospital/Coroner Interior             | No        | 254.3993, -1372.5310, 24.5378    |
-| `coronertrash`                        | Hospital/Coroner Exterior             | No        | 231.3060, -1354.5604, 30.4998    |
-| `ch1_02_open`                         | House                                 | Yes       | -3089.2024, 340.6771, 7.4098     |
-| `bh1_47_joshhse_unburnt`              | Josh House                            | Yes       | -1117.8140, 299.1937, 65.9988    |
-| `bh1_47_joshhse_unburnt_lod`          | Josh House Lod                        | Yes       | -1117.8140, 299.1937, 65.9988    |
-| `bkr_bi_id1_23_door`                  | Garage                                | Yes       | 975.9870, -1825.6346, 31.1520    |
-| `id2_14_during_door`                  | Lester's Factory Door Lod             | Yes       | 717.7944, -981.8777, 24.1251     |
-| `id2_14_during1`                      | Lester's Factory Interior             | Yes       | 717.7944, -981.8777, 24.1251     |
-| `facelobby`                           | Lifeinvader Lobby                     | Yes       | -1080.9751, -262.1824, 37.7963   |
-| `bkr_bi_hw1_13_int`                   | Lost's LS House                       | Yes       | 984.8790, -107.5131, 74.3530     |
-| `methtrailer_grp1`                    | Lost's Trailer                        | Yes       | 36.2185, 3729.6951, 39.6247      |
-| `cs5_4_trains`                        | Mine Train                            | No        | 2758.0320, 2826.8665, 36.3368    |
-| `rc12b_default`                       | Pillbox Hospital                      | Yes       | 296.3818, -583.7649, 43.1411     |
-| `CanyonRvrShallow`                    | Raton Canyon River                    | Yes       | -1624.4263, 4405.6924, 2.4115    |
-| `redCarpet`                           | Red Carpet                            | No        | 295.8684, 188.0219, 104.2151     |
-| `shr_int`                             | Simeon - PDM                          | Yes       | -63.4555, -1092.7322, 26.5450    |
-| `ld_rail_01_track`                    | Train Track 1                         | Yes       | 2629.1389, 2947.4280, 40.4228    |
-| `ld_rail_02_track`                    | Train Track 2                         | Yes       | 2629.1389, 2947.4280, 40.4228    |
-| `trevorstrailertidy`                  | Trevor's Trailer (Tidy)               | Yes       | 1974.4934, 3813.5847, 33.4270    |
-| `TrevorsTrailerTrash`                 | Trevor's Trailer (Trash)              | No        | 1974.4934, 3813.5847, 33.4270    |
-| `v_tunnel_hole`                       | Tunnel Hole                           | Yes       | 27.7581, -624.8397, 30.3617      |
-| `ufo`                                 | UFO                                   | No        | 2491.7209, 3777.8430, 2414.0684  |
-| `ufo_eye`                             | UFO Eye                               | No        | 500.4731, 5592.7559, 795.3451    |
-| `ufo_lod`                             | UFO LOD                               | No        | -2052.0051, 3243.0820, 1455.7976 |
-| `FINBANK`                             | Union Depository Vault                | No        | 6.2805, -706.8632, 16.1310       |
-| `post_hiest_unload`                   | Vangelico Heist - Portola Drive       | Yes       | -633.1691, -238.8460, 38.0724    |
-| `refit_unload`                        | Vangelico Heist - Rockford Drive      | Yes       | -581.3667, -281.5825, 35.4500    |
-| `cs3_05_water_grp1`                   | Zancudo River                         | Yes       | 90.2941, 3194.2937, 30.9970      |
-| `cs3_05_water_grp1_lod`               | Zancudo River LOD                     | Yes       | 90.2941, 3194.2937, 30.9970      |
-| `trv1_trail_start`                    | Zancudo Trail Start                   | Yes       | 90.2941, 3194.2937, 30.9970      |
+| IPL Name                              | Description                           | Enabled   | Coords                            | DLC                |
+|---------------------------------------|---------------------------------------|-----------|-----------------------------------|--------------------|
+| `ferris_finale_anim`                  | Animated Ferris Wheel                 | Yes       | -1676.94, -1126.66, 13.09         | `base game`        |
+| `sp1_10_real_interior`                | Arena - Fame or Shame                 | Yes       | -251.10, -2029.25, 29.95          | `base game`        |
+| `sp1_10_real_interior_lod`            | Arena - Fame or Shame (Lod)           | Yes       | -251.10, -2029.25, 29.95          | `base game`        |
+| `hei_sm_16_interior_v_bahama_milo_`   | Bahama Mamas Interior                 | No        | -1387.20, -588.89, 30.32          | `base game`        |
+| `FruitBB`                             | Billboard                             | No        | -                                 | `base game`        |
+| `sc1_01_newbill`                      | Billboard                             | No        | -                                 | `base game`        |
+| `hw1_02_newbill`                      | Billboard                             | No        | -                                 | `base game`        |
+| `hw1_emissive_newbill`                | Billboard (Emissive)                  | No        | -                                 | `base game`        |
+| `sc1_14_newbill`                      | Billboard                             | No        | -                                 | `base game`        |
+| `dt1_17_newbill`                      | Billboard                             | No        | -                                 | `base game`        |
+| `canyonriver01`                       | Canyon River                          | Yes       | -426.97, 4386.53, 48.08           | `base game`        |
+| `canyonriver01_lod`                   | Canyon River (Lod)                    | Yes       | -426.97, 4386.53, 48.08           | `base game`        |
+| `cargoship`                           | Cargo Ship (Normal)                   | No        | -217.24, -2386.04, 6.00           | `base game`        |
+| `ship_occ_grp1`                       | Cargo Ship Occlusions (Normal)        | No        | -217.24, -2386.04, 6.00           | `base game`        |
+| `sunkcargoship`                       | Cargo Ship (Sinking)                  | No        | -217.24, -2386.04, 6.00           | `base game`        |
+| `ship_occ_grp2`                       | Cargo Ship Occlusions (Sinking)       | No        | -217.24, -2386.04, 6.00           | `base game`        |
+| `Carwash_with_spinners`               | Carwash Rotating Brushes              | No        | 45.62, -1390.75, 29.42            | `base game`        |
+| `lr_cs6_08_grave_closed`              | Church Grave                          | Yes       | -285.30, 2831.28, 55.62           | `base game`        |
+| `CS1_02_cf_onmission1`                | Cluckin' Bell Paleto                  | Yes       | -70.65, 6269.88, 31.33            | `base game`        |
+| `CS1_02_cf_onmission2`                | Cluckin' Bell Paleto                  | Yes       | -70.65, 6269.88, 31.33            | `base game`        |
+| `CS1_02_cf_onmission3`                | Cluckin' Bell Paleto                  | Yes       | -70.65, 6269.88, 31.33            | `base game`        |
+| `CS1_02_cf_onmission4`                | Cluckin' Bell Paleto                  | Yes       | -70.65, 6269.88, 31.33            | `base game`        |
+| `dt1_21_prop_lift_on`                 | Construction Site Lift                | No        | -182.77, -1023.16, 29.35          | `base game`        |
+| `dockcrane1`                          | Dock Crane                            | No        | 884.16, -2940.72, 5.90            | `base game`        |
+| `pcranecont`                          | Dock Crane Container                  | No        | 884.16, -2940.72, 5.90            | `base game`        |
+| `atriumglmission`                     | FIB - Roof Windows                    | Yes       | 124.55, -745.13, 262.97           | `base game`        |
+| `dt1_05_hc_end`                       | FIB - Incident                        | No        | 185.00, -680.34, 43.14            | `base game`        |
+| `dt1_05_hc_req`                       | FIB - Burnt Helicopter                | No        | 185.00, -680.34, 43.14            | `base game`        |
+| `dt1_05_hc_remove`                    | FIB - Fountain Part                   | Yes       | 185.00, -680.34, 43.14            | `base game`        |
+| `FIBlobby`                            | FIB Entrance                          | Yes       | 101.38, -744.04, 45.75            | `base game`        |
+| `CS3_07_MPGates`                      | Fort Zancudo Gates                    | No        | -2296.96, 3380.78, 31.06          | `base game`        |
+| `farm`                                | Grapeseed Farm                        | Yes       | 2430.49, 4980.76, 45.88           | `base game`        |
+| `farmint`                             | Grapeseed Farm Interior               | Yes       | 2430.49, 4980.76, 45.88           | `base game`        |
+| `farm_lod`                            | Grapeseed Farm Lod                    | Yes       | 2430.49, 4980.76, 45.88           | `base game`        |
+| `farm_props`                          | Grapeseed Farm Props                  | Yes       | 2430.49, 4980.76, 45.88           | `base game`        |
+| `des_farmhouse`                       | Grapeseed Farmhouse                   | Yes       | 2430.49, 4980.76, 45.88           | `base game`        |
+| `ch3_rd2_bishopschickengraffiti`      | Graffiti - Bishop's Chicken           | No        | -                                 | `base game`        |
+| `cs5_04_mazebillboardgraffiti`        | Graffiti - Maze Billboard             | No        | -                                 | `base game`        |
+| `cs5_roads_ronoilgraffiti`            | Graffiti - Ron Oil                    | No        | -                                 | `base game`        |
+| `Coroner_Int_on`                      | Hospital/Coroner Interior             | No        | 254.40, -1372.53, 24.54           | `base game`        |
+| `coronertrash`                        | Hospital/Coroner Exterior             | No        | 231.31, -1354.56, 30.50           | `base game`        |
+| `ch1_02_open`                         | House                                 | Yes       | -3089.20, 340.68, 7.41            | `base game`        |
+| `bh1_47_joshhse_unburnt`              | Josh House                            | Yes       | -1117.81, 299.19, 66.00           | `base game`        |
+| `bh1_47_joshhse_unburnt_lod`          | Josh House Lod                        | Yes       | -1117.81, 299.19, 66.00           | `base game`        |
+| `bkr_bi_id1_23_door`                  | Garage                                | Yes       | 975.99, -1825.63, 31.15           | `base game`        |
+| `id2_14_during_door`                  | Lester's Factory Door Lod             | Yes       | 717.79, -981.88, 24.13            | `base game`        |
+| `id2_14_during1`                      | Lester's Factory Interior             | Yes       | 717.79, -981.88, 24.13            | `base game`        |
+| `facelobby`                           | Lifeinvader Lobby                     | Yes       | -1080.98, -262.18, 37.80          | `base game`        |
+| `bkr_bi_hw1_13_int`                   | Lost's LS House                       | Yes       | 984.88, -107.51, 74.35            | `base game`        |
+| `methtrailer_grp1`                    | Lost's Trailer                        | Yes       | 36.22, 3729.70, 39.62             | `base game`        |
+| `cs5_4_trains`                        | Mine Train                            | No        | 2758.03, 2826.87, 36.34           | `base game`        |
+| `rc12b_default`                       | Pillbox Hospital                      | Yes       | 296.38, -583.76, 43.14            | `base game`        |
+| `CanyonRvrShallow`                    | Raton Canyon River                    | Yes       | -1624.43, 4405.69, 2.41           | `base game`        |
+| `redCarpet`                           | Red Carpet                            | No        | 295.87, 188.02, 104.22            | `base game`        |
+| `shr_int`                             | Simeon - PDM                          | Yes       | -63.46, -1092.73, 26.55           | `base game`        |
+| `ld_rail_01_track`                    | Train Track 1                         | Yes       | 2629.14, 2947.43, 40.43           | `base game`        |
+| `ld_rail_02_track`                    | Train Track 2                         | Yes       | 2629.14, 2947.43, 40.43           | `base game`        |
+| `trevorstrailertidy`                  | Trevor's Trailer (Tidy)               | Yes       | 1974.49, 3813.58, 33.43           | `base game`        |
+| `TrevorsTrailerTrash`                 | Trevor's Trailer (Trash)              | No        | 1974.49, 3813.58, 33.43           | `base game`        |
+| `v_tunnel_hole`                       | Tunnel Hole                           | Yes       | 27.76, -624.84, 30.37             | `base game`        |
+| `ufo`                                 | UFO                                   | No        | 2491.72, 3777.84, 2414.07         | `base game`        |
+| `ufo_eye`                             | UFO Eye                               | No        | 500.47, 5592.76, 795.35           | `base game`        |
+| `ufo_lod`                             | UFO LOD                               | No        | -2052.00, 3243.08, 1455.80        | `base game`        |
+| `FINBANK`                             | Union Depository Vault                | No        | 6.28, -706.86, 16.13              | `base game`        |
+| `post_hiest_unload`                   | Vangelico Heist - Portola Drive       | Yes       | -633.17, -238.85, 38.07           | `base game`        |
+| `refit_unload`                        | Vangelico Heist - Rockford Drive      | Yes       | -581.37, -281.58, 35.45           | `base game`        |
+| `cs3_05_water_grp1`                   | Zancudo River                         | Yes       | 90.29, 3194.29, 31.00             | `base game`        |
+| `cs3_05_water_grp1_lod`               | Zancudo River LOD                     | Yes       | 90.29, 3194.29, 31.00             | `base game`        |
+| `trv1_trail_start`                    | Zancudo Trail Start                   | Yes       | 90.29, 3194.29, 31.00             | `base game`        |
 
 ---
 
