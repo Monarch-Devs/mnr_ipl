@@ -78,38 +78,92 @@
 
 ## Interiors (`ints`)
 
-| ID     | Description            | Enabled | Teleport | Coords                          |
-|--------|------------------------|---------|----------|---------------------------------|
-| 137729 | Ammu-Nation            | Yes     | No       | 16.5983, -1117.1483, 29.7913    |
-| 248065 | Ammu-Nation            | Yes     | No       | 811.9525, -2145.9695, 29.3703   |
-| 153857 | Ammu-Nation            | Yes     | No       | 843.8707, -1021.2626, 27.5487   |
-| 140289 | Ammu-Nation            | Yes     | No       | 243.1246, -45.0122, 69.8966     |
-| 164609 | Ammu-Nation            | Yes     | No       | -1315.4467, -390.1280, 36.5377  |
-| 168193 | Ammu-Nation            | Yes     | No       | -663.7717, -947.1395, 21.5986   |
-| 176385 | Ammu-Nation            | Yes     | No       | -3163.2073, 1082.1978, 20.8478  |
-| 178689 | Ammu-Nation            | Yes     | No       | 2569.5364, 305.0328, 108.6081   |
-| 175617 | Ammu-Nation            | Yes     | No       | -1111.4142, 2688.8916, 18.5997  |
-| 200961 | Ammu-Nation            | Yes     | No       | 1699.7914, 3750.7307, 34.3718   |
-| 180481 | Ammu-Nation            | Yes     | No       | -323.0224, 6073.8945, 31.2306   |
-| 171777 | Floyd's Apartment      | Yes     | No       | -1149.2828, -1522.6805, 10.6281 |
-| 197889 | Franklin's Aunt        | Yes     | No       | -14.2680, -1444.9768, 30.6464   |
-| 206849 | Franklin's House       | Yes     | No       | 9.6627, 545.8102, 175.6929      |
-| 92674  | Lester's Factory       | Yes     | No       | 717.7944, -981.8777, 24.1251    |
-| 166657 | Michael's House        | Yes     | No       | -820.5499, 176.6931, 71.6152    |
-| 166401 | Michael's House Garage | Yes     | No       | -820.5499, 176.6931, 71.6152    |
-| 7170   | Simeon - PDM           | Yes     | No       | -63.4555, -1092.7322, 26.5450   |
-| 2562   | Trevor's Trailer       | Yes     | No       | 1974.4934, 3813.5847, 33.4270   |
-| 197121 | Vanilla Unicorn        | Yes     | No       | 132.6468, -1305.7902, 29.1702   |
-| 141313 | Apartment (Hi)         | No      | Yes      | -17.7186, -589.0399, 90.1148    |
-| 145665 | Apartment (Hi)         | No      | Yes      | -1451.6017, -523.8001, 56.9290  |
-| 147201 | Apartment (Hi)         | No      | Yes      | -30.9291, -595.3759, 80.0310    |
-| 206081 | Apartment (Hi)         | No      | Yes      | 346.8774, 440.7106, 147.7022    |
-| 206337 | Apartment (Hi)         | No      | Yes      | 373.1859, 428.0088, 145.6844    |
-| 206593 | Apartment (Hi)         | No      | Yes      | 119.1494, 565.2958, 183.9593    |
-| 207105 | Apartment (Hi)         | No      | Yes      | -175.3530, 502.4640, 137.4204   |
-| 207361 | Apartment (Hi)         | No      | Yes      | -853.6075, 696.7640, 148.7813   |
-| 207617 | Apartment (Hi)         | No      | Yes      | -751.9414, 620.8879, 142.2222   |
-| 208129 | Apartment (Hi)         | No      | Yes      | -686.7798, 597.4332, 143.6372   |
-| 208385 | Apartment (Hi)         | No      | Yes      | -1294.3964, 454.5951, 97.5364   |
-| 148225 | Apartment (Mid)        | No      | Yes      | 346.6050, -1012.6652, -99.1964  |
-| 149761 | Studio (Lo)            | No      | Yes      | 266.1465, -1007.0094, -100.9177 |
+| ID     | Description            | Enabled | Teleport | Coords                          | DLC                |
+|--------|------------------------|---------|----------|---------------------------------|--------------------|
+| 137729 | Ammu-Nation            | Yes     | No       | 16.5983, -1117.1483, 29.7913    | `base game`        |
+| 248065 | Ammu-Nation            | Yes     | No       | 811.9525, -2145.9695, 29.3703   | `base game`        |
+| 153857 | Ammu-Nation            | Yes     | No       | 843.8707, -1021.2626, 27.5487   | `base game`        |
+| 140289 | Ammu-Nation            | Yes     | No       | 243.1246, -45.0122, 69.8966     | `base game`        |
+| 164609 | Ammu-Nation            | Yes     | No       | -1315.4467, -390.1280, 36.5377  | `base game`        |
+| 168193 | Ammu-Nation            | Yes     | No       | -663.7717, -947.1395, 21.5986   | `base game`        |
+| 176385 | Ammu-Nation            | Yes     | No       | -3163.2073, 1082.1978, 20.8478  | `base game`        |
+| 178689 | Ammu-Nation            | Yes     | No       | 2569.5364, 305.0328, 108.6081   | `base game`        |
+| 175617 | Ammu-Nation            | Yes     | No       | -1111.4142, 2688.8916, 18.5997  | `base game`        |
+| 200961 | Ammu-Nation            | Yes     | No       | 1699.7914, 3750.7307, 34.3718   | `base game`        |
+| 180481 | Ammu-Nation            | Yes     | No       | -323.0224, 6073.8945, 31.2306   | `base game`        |
+| 171777 | Floyd's Apartment      | Yes     | No       | -1149.2828, -1522.6805, 10.6281 | `base game`        |
+| 197889 | Franklin's Aunt        | Yes     | No       | -14.2680, -1444.9768, 30.6464   | `base game`        |
+| 206849 | Franklin's House       | Yes     | No       | 9.6627, 545.8102, 175.6929      | `base game`        |
+| 92674  | Lester's Factory       | Yes     | No       | 717.7944, -981.8777, 24.1251    | `base game`        |
+| 166657 | Michael's House        | Yes     | No       | -820.5499, 176.6931, 71.6152    | `base game`        |
+| 166401 | Michael's House Garage | Yes     | No       | -820.5499, 176.6931, 71.6152    | `base game`        |
+| 7170   | Simeon - PDM           | Yes     | No       | -63.4555, -1092.7322, 26.5450   | `base game`        |
+| 2562   | Trevor's Trailer       | Yes     | No       | 1974.4934, 3813.5847, 33.4270   | `base game`        |
+| 197121 | Vanilla Unicorn        | Yes     | No       | 132.6468, -1305.7902, 29.1702   | `base game`        |
+| 141313 | Apartment (Hi)         | No      | Yes      | -17.7186, -589.0399, 90.1148    | `base game`        |
+| 145665 | Apartment (Hi)         | No      | Yes      | -1451.6017, -523.8001, 56.9290  | `base game`        |
+| 206081 | Apartment (Hi)         | No      | Yes      | 346.8774, 440.7106, 147.7022    | `base game`        |
+| 206337 | Apartment (Hi)         | No      | Yes      | 373.1859, 428.0088, 145.6844    | `base game`        |
+| 206593 | Apartment (Hi)         | No      | Yes      | 119.1494, 565.2958, 183.9593    | `base game`        |
+| 207105 | Apartment (Hi)         | No      | Yes      | -175.3530, 502.4640, 137.4204   | `base game`        |
+| 207361 | Apartment (Hi)         | No      | Yes      | -853.6075, 696.7640, 148.7813   | `base game`        |
+| 207617 | Apartment (Hi)         | No      | Yes      | -751.9414, 620.8879, 142.2222   | `base game`        |
+| 208129 | Apartment (Hi)         | No      | Yes      | -686.7798, 597.4332, 143.6372   | `base game`        |
+| 208385 | Apartment (Hi)         | No      | Yes      | -1294.3964, 454.5951, 97.5364   | `base game`        |
+| 148225 | Apartment (Mid)        | No      | Yes      | 346.6050, -1012.6652, -99.1964  | `base game`        |
+| 149761 | Studio (Lo)            | No      | Yes      | 266.1465, -1007.0094, -100.9177 | `base game`        |
+| 147201 | Apartment (Hi)         | No      | Yes      | -30.9291, -595.3759, 80.0310    | `mpbusiness2`      |
+
+### DEPRECATED (TO MOVE)
+```lua
+
+-- DEPRECATED CONFIG FILE (config/disable.lua)
+---@todo Migration of comments to IPL_LIST.md and missing Interiors/IPLs to vanilla.lua
+---@diagnostic disable: exp-in-action, unknown-symbol
+
+
+---@description Ammu-Nation Interiors
+{ id = 137729, disable = false },               --- Los Santos      | Adam's Apple Boulevard    | coords: 16.5983, -1117.1483, 29.7913
+{ id = 248065, disable = false },               --- Los Santos      | Popular Street            | coords: 811.9525, -2145.9695, 29.3703
+{ id = 153857, disable = false },               --- Los Santos      | Vespucci Boulevard        | coords: 843.8707, -1021.2626, 27.5487
+{ id = 140289, disable = false },               --- Los Santos      | Spanish Avenue            | coords: 243.1246, -45.0122, 69.8966
+{ id = 164609, disable = false },               --- Los Santos      | Boulevard Del Perro       | coords: -1315.4467, -390.1280, 36.5377
+{ id = 168193, disable = false },               --- Los Santos      | Lindsay Circus            | coords: -663.7717, -947.1395, 21.5986
+{ id = 176385, disable = false },               --- Los Santos      | Great Ocean Highway       | coords: -3163.2073, 1082.1978, 20.8478
+{ id = 178689, disable = false },               --- Los Santos      | Palomino Freeway          | coords: 2569.5364, 305.0328, 108.6081
+{ id = 200961, disable = false },               --- Sandy Shores    | Algonquin Boulevard       | coords: 1699.7914, 3750.7307, 34.3718
+{ id = 175617, disable = false },               --- Sandy Shores    | Route 68                  | coords: -1111.4142, 2688.8916, 18.5997
+{ id = 180481, disable = false },               --- Paleto Bay      | Great Ocean Highway       | coords: -323.0224, 6073.8945, 31.2306
+
+
+---@description Fleeca Bank Interiors
+{ id = 137985, disable = false },               --- Los Santos      | Vespucci Boulevard        | coords: 151.3034, -1036.2970, 29.3392
+{ id = 234241, disable = false },
+{ id = 141057, disable = false },
+{ id = 165121, disable = false },
+{ id = 174849, disable = false },
+{ id = 201985, disable = false },               --- Sandy Shores    | Route 68                  | coords: 1175.1665, 2701.2539, 38.1727
+
+
+---@description Barbers Interiors (Only needed ones)
+{ id = 198657, disable = false },               --- Los Santos      | South Side                |
+{ id = 155905, disable = false },               --- Los Santos      | Mirror Park               |
+{ id = 171009, disable = false },               --- Los Santos      | Vespucci                  |
+{ id = 140545, disable = false },               --- Los Santos      | Vinewood                  |
+{ id = 199937, disable = false },               --- Sandy           | There's only one          |
+{ id = 180225, disable = false },               --- Paleto          | There's only one          |
+
+
+---@description MRPD
+{ ipl = 'hei_heist_police_dlc', disable = false },
+{ ipl = 'v_policehub', disable = false },
+
+
+---@description Pillbox Hospital IPL
+{ ipl = 'rc12b_default', disable = false },
+
+
+---@description Trevor Trailer Interior
+{ id = 2562, disable = false },
+
+```
